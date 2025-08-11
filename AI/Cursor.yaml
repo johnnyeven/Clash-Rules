@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,cursorapi.com
   - DOMAIN-SUFFIX,cursor.com
   - DOMAIN-SUFFIX,workos.com
+  - DOMAIN-SUFFIX,stripe.com
